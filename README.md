@@ -1,5 +1,9 @@
 # Fintual Challenge
 
+
+https://github.com/user-attachments/assets/0d16ba32-6109-4bab-98a9-c339c6040689
+
+
 Portfolio con stocks, aplicando rebalance strategy.
 
 ## Requisitos:
