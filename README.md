@@ -182,8 +182,8 @@ Al dia de hoy:
 - AAPL vale 100 por cada share
 
 Mi portafolio tiene el total de 10_000. Se compone de:
-5_000 de META
-5_000 de AAPL
+5_000 de META, tengo 50 shares
+5_000 de AAPL, tengo 50 shares
 
 Mi objetivo (allocation) es tener
 40%  de META
